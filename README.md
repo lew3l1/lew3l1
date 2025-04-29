@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lew3l1
-- 👀 I’m interested in bot,web-develop codding
-- 🌱 I’m currently learning php, node.js, js, react, go
+- 👀 I’m interested in bot, web-develop codding, ux/ui design.
+- 🌱 I’m currently learning php, node.js, next.js, js, react, go.
 - 💞️ I’m looking to collaborate on develop.inc
 - 📫 How to reach me im my [gmail](danillew3l1@gmail.com) or [likntree/lew3l1](https://linktr.ee/lew3l1)
 - 😄 Pronouns: He/Him
